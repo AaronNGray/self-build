@@ -1,0 +1,8 @@
+# include "enumeration.hh"
+# include "mapTable.hh"
+# include "codeLikeSlotsMap.hh"
+# include "vframeMap.hh"
+# include "vframeOop.hh"
+# include "processOop.hh"
+# include "rSet_inline.hh"
+# include "search.hh"

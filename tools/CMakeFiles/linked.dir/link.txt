@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc   -m32    CMakeFiles/linked.dir/src/linked.c.o  -o linked -rdynamic 

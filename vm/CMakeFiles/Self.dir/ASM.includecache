@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/self/vm/src/any/memory/spaceSizeMacros.hh
+
+/root/self/vm/src/i386/prims/asmPrims_i386.S
+asmDefs_gcc_i386.hh
+/root/self/vm/src/i386/prims/asmDefs_gcc_i386.hh
+
+/root/self/vm/src/i386/runtime/asmDefs_gcc_i386.hh
+
+/root/self/vm/src/i386/runtime/runtime_asm_gcc_i386.S
+asmDefs_gcc_i386.hh
+/root/self/vm/src/i386/runtime/asmDefs_gcc_i386.hh
+
+/root/self/vm/src/i386/zone/allocZone_i386.S
+_allocZone_i386.S.incl
+/root/self/vm/src/i386/zone/_allocZone_i386.S.incl
+asmDefs_gcc_i386.hh
+/root/self/vm/src/i386/zone/asmDefs_gcc_i386.hh
+
+incls/_allocZone_i386.S.incl
+spaceSizeMacros.hh
+incls/spaceSizeMacros.hh
+

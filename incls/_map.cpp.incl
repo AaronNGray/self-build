@@ -1,0 +1,6 @@
+# include "codeLikeSlotsMap.hh"
+# include "assignmentMap.hh"
+# include "assignmentOop.hh"
+# include "enumeration.hh"
+# include "mapTable.hh"
+# include "nprofiler.hh"

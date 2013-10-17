@@ -1,0 +1,6 @@
+# include "longRegString.hh"
+# include "sicScope.hh"
+# include "nodeGen.hh"
+# include "node_inline.hh"
+# include "rscope.hh"
+# include "sicExpr.hh"

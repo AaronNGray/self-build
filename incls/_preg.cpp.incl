@@ -1,0 +1,7 @@
+# include "longRegString.hh"
+# include "sicScope.hh"
+# include "nodeGen.hh"
+# include "regAlloc.hh"
+# include "scopeDescRecorder.hh"
+# include "sicExpr.hh"
+# include "sicSplit.hh"

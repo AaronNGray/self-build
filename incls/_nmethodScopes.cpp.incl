@@ -1,0 +1,7 @@
+# include "cacheStub_inline.hh"
+# include "fcompiler.hh"
+# include "fprofiler.hh"
+# include "table.hh"
+# include "print.hh"
+# include "recompile.hh"
+# include "scopeDescRecorder.hh"

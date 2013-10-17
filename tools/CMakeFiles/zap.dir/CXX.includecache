@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/self/tools/src/zap.cpp
+stdio.h
+-
+string.h
+-
+signal.h
+-
+sys/param.h
+-
+unistd.h
+-
+stdlib.h
+-
+

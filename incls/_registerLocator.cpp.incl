@@ -1,0 +1,3 @@
+# include "nprofiler.hh"
+# include "recompile.hh"
+# include "registerLocator.hh"

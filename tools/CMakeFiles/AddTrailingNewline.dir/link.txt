@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++    -m32    CMakeFiles/AddTrailingNewline.dir/src/AddTrailingNewline.cpp.o  -o AddTrailingNewline -rdynamic 

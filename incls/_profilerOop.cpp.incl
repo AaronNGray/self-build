@@ -1,0 +1,8 @@
+# include "nprofiler.hh"
+# include "codeLikeSlotsMap.hh"
+# include "vframeMap.hh"
+# include "vframeOop.hh"
+# include "processOop.hh"
+# include "profilerOop.hh"
+# include "profilerMap.hh"
+# include "shell.hh"

@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc   -m32    CMakeFiles/cmprev.dir/src/cmprev.c.o  -o cmprev -rdynamic 

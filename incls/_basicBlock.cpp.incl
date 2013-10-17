@@ -1,0 +1,5 @@
+# include "bitVector.hh"
+# include "longRegString.hh"
+# include "sicScope.hh"
+# include "nodeGen.hh"
+# include "regAlloc.hh"

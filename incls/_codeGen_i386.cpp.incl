@@ -1,0 +1,8 @@
+# include "fscope.hh"
+# include "codeGen.hh"
+# include "codeGen_inline_i386.hh"
+# include "complexLookup.hh"
+# include "fcompiler.hh"
+# include "nlrSupport.hh"
+# include "recompile.hh"
+# include "registerState.hh"

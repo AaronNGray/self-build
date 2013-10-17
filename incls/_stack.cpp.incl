@@ -1,0 +1,8 @@
+# include "enumeration.hh"
+# include "oopClosures.hh"
+# include "interpreter.hh"
+# include "registerLocator.hh"
+# include "shell.hh"
+# include "codeLikeSlotsMap.hh"
+# include "vframeMap.hh"
+# include "vframeOop.hh"

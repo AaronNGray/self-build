@@ -1,0 +1,8 @@
+# include "foreignOop.hh"
+# include "proxyOop.hh"
+# include "glueDefs.hh"
+# include "include_glue.hh"
+# include "unixPrims.hh"
+# include "x_includes.hh"
+# include "platformWindow.hh"
+# include "quartzWindow.hh"

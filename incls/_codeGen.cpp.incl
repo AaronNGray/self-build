@@ -1,0 +1,4 @@
+# include "fscope.hh"
+# include "codeGen.hh"
+# include "codeGen_inline_i386.hh"
+# include "scopeDescRecorder.hh"

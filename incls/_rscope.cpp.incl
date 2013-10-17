@@ -1,0 +1,6 @@
+# include "recompile.hh"
+# include "rscope.hh"
+# include "longRegString.hh"
+# include "sicScope.hh"
+# include "sicExpr.hh"
+# include "uncommonBranch.hh"

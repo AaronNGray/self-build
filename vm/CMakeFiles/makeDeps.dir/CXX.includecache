@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/self/vm/build_support/makeDeps.cpp
+new
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+windows.h
+-
+

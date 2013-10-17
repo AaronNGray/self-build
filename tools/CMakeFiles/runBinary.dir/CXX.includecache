@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/self/tools/src/runBinary.cpp
+stdlib.h
+-
+fcntl.h
+-
+stdio.h
+-
+sys/mman.h
+-
+libkern/OSCacheControl.h
+-
+

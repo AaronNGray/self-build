@@ -1,0 +1,4 @@
+# include "foreignOop.hh"
+# include "foreignMap.hh"
+# include "proxyOop.hh"
+# include "proxyMap.hh"

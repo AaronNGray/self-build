@@ -1,0 +1,12 @@
+/root/self-build/tools/CMakeFiles/AddTrailingNewline.dir
+/root/self-build/vm/CMakeFiles/Self.dir
+/root/self-build/tools/CMakeFiles/cmprev.dir
+/root/self-build/vm/CMakeFiles/create_vmDate.dir
+/root/self-build/tools/CMakeFiles/dangling.dir
+/root/self-build/tools/CMakeFiles/isLink.dir
+/root/self-build/tools/CMakeFiles/linked.dir
+/root/self-build/vm/CMakeFiles/makeDeps.dir
+/root/self-build/tools/CMakeFiles/rself.dir
+/root/self-build/tools/CMakeFiles/runBinary.dir
+/root/self-build/tools/CMakeFiles/shellscripts.dir
+/root/self-build/tools/CMakeFiles/zap.dir

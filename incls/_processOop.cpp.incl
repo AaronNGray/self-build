@@ -1,0 +1,6 @@
+# include "nlrSupport.hh"
+# include "nprofiler.hh"
+# include "codeLikeSlotsMap.hh"
+# include "vframeMap.hh"
+# include "vframeOop.hh"
+# include "processOop.hh"

@@ -1,0 +1,6 @@
+# include "table.hh"
+# include "print.hh"
+# include "scopeDescRecorder.hh"
+# include "longRegString.hh"
+# include "sicScope.hh"
+# include "sicExpr.hh"
